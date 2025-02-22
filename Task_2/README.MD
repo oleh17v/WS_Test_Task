@@ -3,7 +3,7 @@
 In this task, the goal was to train two models: one for performing the NER task, and the other for image classification. After that, a pipeline was built that would accept two user inputs, text and the image itself, and provide an answer on whether the user is correct or not.
 
 To accomplish this, the following libraries were used:
-- **pandas**, **scikit-learn**, *Pillow**, **torchmetrics**, **numpy**, **Seaborn**: for data manipulation, visualization, and metrics application.
+- **pandas**, **scikit-learn**, **Pillow**, **torchmetrics**, **numpy**, **Seaborn**: for data manipulation, visualization, and metrics application.
 - **PyTorch**, **Transformers**: for training and downloading pre-trained models, like BERT and CNN ResNet-18.
 
 
