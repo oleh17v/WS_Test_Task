@@ -6,8 +6,8 @@ In this task, the goal was to train 3 separate models for Image classification u
 * Convolutional Neural Network
 
 To complete this task, next libraries were used:
-- **pandas**, **scikit-learn**, **numpy**: for data manipulation and applying metrics as well as ready Random Forest architecture extraction.
-- **PyTorch**, **torchvision**: for building and training neural networks and loading MNIST dataset.
+- **scikit-learn**, **numpy**: for data manipulation and applying metrics as well as ready Random Forest architecture extraction.
+- **PyTorch**, **torchvision**: for building and training neural networks and loading MNIST dataset and data preprocessing as well.
 
 As stated in the task description, the given models, specifically CNN with TinyVGG architecture, Feed-Forward Network and Random Forest, were built and trained. All three models showed good results: 
 * CNN: 99.03%
